@@ -247,9 +247,8 @@ function App() {
             <p>
               <a
                 href="https://linkedin.com/in/nalumachu-manoj-80aa84384"
-                target="_blank"
-              >
-                View Profile
+                target="_blank">
+                  View Profile
               </a>
             </p>
           </div>
