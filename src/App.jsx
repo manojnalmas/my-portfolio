@@ -73,11 +73,12 @@ function App() {
             Contact Me
           </a>
 
-          <a href="/resume.pdf"
-  target="_blank"
-  rel="noreferrer"
->
-  Resume
+          <a
+          href="https://my-portfolio-nu-three-20.vercel.app/resume.pdf"
+          target="_blank"
+          rel="noreferrer"
+          >
+           Resume
           </a>
         </div>
       </motion.section>
