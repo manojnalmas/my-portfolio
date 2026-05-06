@@ -383,3 +383,16 @@ section {
     transform: translateY(0px);
   }
 }
+.project > *,
+.stat-card > *,
+.buttons a > *,
+.skills span > * {
+  position: relative;
+  z-index: 2;
+}
+
+.stat-card a {
+  position: relative;
+  z-index: 5;
+  pointer-events: auto;
+}
