@@ -73,8 +73,11 @@ function App() {
             Contact Me
           </a>
 
-          <a href="/resume.pdf" target="_blank">
-            Resume
+          <a href="/resume.pdf"
+  target="_blank"
+  rel="noreferrer"
+>
+  Resume
           </a>
         </div>
       </motion.section>
