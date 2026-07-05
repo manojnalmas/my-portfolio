@@ -74,7 +74,7 @@ function App() {
           </a>
 
           <a
-          href="https://my-portfolio-nu-three-20.vercel.app/resume.pdf"
+          href="/resumee.pdf"
           target="_blank"
           rel="noreferrer"
           >
